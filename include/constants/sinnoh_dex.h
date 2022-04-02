@@ -2,10 +2,10 @@
 #define POKEDIAMOND_CONSTANTS_SINNOH_DEX_H
 
 #define SINNOH_DEX_ARCEUS       0
-#define SINNOH_DEX_TURTWIG      1
-#define SINNOH_DEX_GROTLE       2
-#define SINNOH_DEX_TORTERRA     3
-#define SINNOH_DEX_CHIMCHAR     4
+#define SINNOH_DEX_EEVEE      1
+#define SINNOH_DEX_VAPOREON       2
+#define SINNOH_DEX_JOLTEON     3
+#define SINNOH_DEX_FLAREON     4
 #define SINNOH_DEX_MONFERNO     5
 #define SINNOH_DEX_INFERNAPE    6
 #define SINNOH_DEX_PIPLUP       7
